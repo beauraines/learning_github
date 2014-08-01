@@ -2,6 +2,9 @@
 
 return array(
 
+	// SHAWN WOULD LIKE TO ADD ANOTHER ARRAY ELEMENT, BUT HE'S TOO SCARED :)
+
+
 	/*
 	|--------------------------------------------------------------------------
 	| Application Debug Mode
